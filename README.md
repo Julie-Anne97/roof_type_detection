@@ -1,4 +1,4 @@
-# roof_type_detection
+# Reconaissance de toit sur images satellite
 
 Mémoire MSc Data Management PSB/EFREI 2021-2023
 
