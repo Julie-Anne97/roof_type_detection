@@ -6,3 +6,7 @@ Déterminer le meilleur moyen pour reconnaitre des toits entre deep learning mod
 
 
 Raw Data : https://www.data.gouv.fr/fr/datasets/base-de-donnees-nationale-des-batiments/ 
+
+1. Image extraction/download using Google Apps Script
+
+First Test Deep Learning Image Classification on reduced dataset and only 2 classes proved 75% accuracy.
