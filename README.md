@@ -10,7 +10,7 @@ Raw Data : https://www.data.gouv.fr/fr/datasets/base-de-donnees-nationale-des-ba
 1. Excel Database with latitude/longitude and its corresponding rooftype
 2. Image extraction/download using Google Apps Script
 (zoom set to 20 for every building)
-4. First Test Deep Learning Image Classification on reduced dataset and only 2 classes proved to work 75% accuracy.
+4. First Test Deep Learning Image Classification on reduced dataset and only 2 classes proved to work with 75% accuracy.
 5. Second with bigger dataset, all 4 classes test still in progress because kernel keeps dying.
 6. Third test also in progress
 
