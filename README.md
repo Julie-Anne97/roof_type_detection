@@ -3,7 +3,7 @@
 Mémoire MSc Data Management PSB/EFREI 2021-2023
 Alternance chez Léon Grosse
 
-Déterminer le meilleur moyen de reconnaissance automatique de types de toitures pour améliorer le calcul de potentiel solaire. Comparaison de plusieurs modèles de Deep Learning ainsi que application de Computer Vision.
+Déterminer le meilleur moyen pour reconnaître automatiquement les types de toitures afin d'améliorer le calcul de potentiel solaire. Comparaison de plusieurs modèles de Deep Learning ainsi que application de Computer Vision.
 
 
 Raw Data : https://www.data.gouv.fr/fr/datasets/base-de-donnees-nationale-des-batiments/ 
