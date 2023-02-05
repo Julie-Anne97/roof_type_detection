@@ -17,9 +17,18 @@ Raw Data : https://www.data.gouv.fr/fr/datasets/base-de-donnees-nationale-des-ba
 
 3. Models used : VGG16, ResNet50 and Xception (see .ipynb)
 
+Model run on Google Colab
+
 ![image](https://user-images.githubusercontent.com/101122818/213943186-97af9c0f-9b6e-4309-9d9f-9c22fe48a881.png)
 ![image](https://user-images.githubusercontent.com/101122818/213943159-49e2d7e2-b561-4080-9ba6-612986373563.png)
 
-Next steps :
+## Results
+1. Model doesn't really learn, ealy stopping activates early on in epochs
+
+#### Next steps :
 - Clean image dabase and apply image transformation
 - Learn shape of roof
+
+#### Limits : 
+- Use opencv? Use multipolygon to cut shapes of buildings
+- Extract images using a different method
