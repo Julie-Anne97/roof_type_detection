@@ -9,12 +9,9 @@ Déterminer le meilleur moyen pour reconnaître automatiquement les types de toi
 Raw Data : https://www.data.gouv.fr/fr/datasets/base-de-donnees-nationale-des-batiments/ 
 
 1. Excel Database with latitude/longitude and its corresponding rooftype
-  
-  1.1 Remove dupplicates and divide by corresponding rooftype 
-  
-  1.2 Upload to a Google Sheet
-  
-  1.3 Download to Drive using Google Apps Script (see .gs file), zoom set to 20 for every single building despite its size
+- Remove dupplicates and divide by corresponding rooftype 
+- Upload to a Google Sheet
+- Download to Drive using Google Apps Script (see .gs file), zoom set to 20 for every single building despite its size
 
 2. First Test Deep Learning Image Classification on reduced dataset and only 2 classes proved to work with 75% accuracy.
 
