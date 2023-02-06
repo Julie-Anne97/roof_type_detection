@@ -1,4 +1,4 @@
-# Reconaissance de type de toiture sur images satellite
+ # Reconaissance de type de toiture sur images satellite
 
 Mémoire MSc Data Management PSB/EFREI 2021-2023
 Alternance chez Léon Grosse
@@ -23,7 +23,8 @@ Model run on Google Colab
 ![image](https://user-images.githubusercontent.com/101122818/213943159-49e2d7e2-b561-4080-9ba6-612986373563.png)
 
 ## Results
-1. Model doesn't really learn, ealy stopping activates early on in epochs
+1. Model doesn't really learn, ealy stopping activates early on in epochs and only about 25-30% accuracy for every model
+2. Results are far better using transfer learning (approx 50-60% accuracy) using ResNet50
 
 #### Next steps :
 - Clean image dabase and apply image transformation
