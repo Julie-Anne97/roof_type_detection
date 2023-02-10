@@ -25,6 +25,7 @@ Model run on Google Colab
 ## Results
 1. Model doesn't really learn, ealy stopping activates early on in epochs and only about 25-30% accuracy for every model
 2. Results are far better using transfer learning (approx 50-60% accuracy) using ResNet50
+3. Application of shapeley to see which pixels are picked up by model
 
 #### Next steps :
 - Clean image dabase and apply image transformation
